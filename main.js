@@ -63,7 +63,11 @@ function drawBackground() {
     ctx.fillText(seconds + " sec", 50, 35);
     ctx.fillText(score, 250, 35);
     ctx.drawImage(coins, 200, 7);
-    ctx.fillText("Highscore: " + highscore, 320, 35);
+    if (highscore == null){
+        ctx.fillText("Highscore: " + 0, 320, 35);
+    } else {
+        ctx.fillText("Highscore: " + highscore, 320, 35);
+    }
     ctx.drawImage(pauseIcon, 699, 11);
     ctx.drawImage(close, 756, 8);
     player.render();
