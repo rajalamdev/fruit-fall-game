@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="128e76d6-1a0a-41a5-8038-77438255c78e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>counter</find>
+      <find>u017</find>
+      <find>fallingDrops[i</find>
+      <find>console</find>
+      <find>pause</find>
+      <find>paused</find>
+      <find>setup</find>
+      <find>high</find>
+    </findStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Qy5rgzEP5ATrG2BQLimuNF5Ioy" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.6.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.fruitCatcher.html (1)">
+    <configuration name="asda.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/plainJS/asda.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="fruitCatcher.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FruitcathcerGame/fruitCatcher.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="fruitCatcher.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/plainJS/fruitCatcher.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.fruitCatcher.html" />
+      <item itemvalue="JavaScript Debug.asda.html" />
+      <item itemvalue="JavaScript Debug.fruitCatcher.html (1)" />
+      <item itemvalue="Node.js.main.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.fruitCatcher.html (1)" />
+        <item itemvalue="JavaScript Debug.fruitCatcher.html" />
+        <item itemvalue="JavaScript Debug.asda.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128e76d6-1a0a-41a5-8038-77438255c78e" name="Default" comment="" />
+      <created>1502184235185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502184235185</updated>
+      <workItem from="1502184236359" duration="18440000" />
+      <workItem from="1502266620377" duration="22115000" />
+      <workItem from="1502352444668" duration="21039000" />
+      <workItem from="1502438651791" duration="14620000" />
+      <workItem from="1502697762692" duration="9508000" />
+      <workItem from="1502874850757" duration="11616000" />
+      <workItem from="1502956785659" duration="16673000" />
+      <workItem from="1502980991712" duration="17000" />
+      <workItem from="1518445367437" duration="219000" />
+      <workItem from="1518445811172" duration="491000" />
+      <workItem from="1518446420519" duration="6066000" />
+      <workItem from="1518531024463" duration="1277000" />
+      <workItem from="1566901348040" duration="4000" />
+      <workItem from="1566901555997" duration="1526000" />
+      <workItem from="1568726871069" duration="462000" />
+      <workItem from="1568727524743" duration="65000" />
+      <workItem from="1568730202845" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

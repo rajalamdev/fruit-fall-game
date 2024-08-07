@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FruitCatcher</title>
+    <script src="main.js"></script>
+    <style>
+        body{ background:#333; margin: 0; padding: 0; }
+        #canvas_container{ width:1000px; margin: 0 auto; }
+        #my_canvas{ background:#FFF; border:#999 1px solid; background-image: url("fruitcatcher/begin.png"); margin-left: 102px }
+        #fruit{
+            margin-left: -150px;
+            margin-top: -600px;
+        }
+        p, ul, li{
+            color: white;
+        }
+        a{
+            color: white;
+        }
+        #highscore_section{
+            margin-left: 460px;
+            margin-top: 190px;
+        }
+
+        #instruction_section{
+            margin-left: 946px;
+            margin-top: -197px;
+            width: 218px;
+        }
+        #gameOver{
+            position: absolute;
+            visibility: hidden;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+<div id="canvas_container">
+    <canvas id="my_canvas" width="800" height="600"></canvas>
+    <section id="fruit">
+        <p> Red Apple = 1</p>
+        <p> Lemon = 2</p>
+        <p> Green Apple = 3</p>
+        <p> Banana = 4</p>
+        <p> Strawberry = 5</p>
+        <p> Peach = 6</p>
+        <p>-------------------------------</p>
+        <p>RULES:</p>
+        <ul>
+            <li>If you catch fruit you get <br> 1 extra second, if don't <br>you lose 3 seconds!</li>
+            <li>If you catch speed you get <br> 4 extra speed</li>
+            <li>If you catch time you get <br> 5 extra seconds</li>
+            <li>If you catch bomb you lose <br> 5 seconds!, and lose 5 score!</li>
+        </ul>
+    </section>
+    <section id="instruction_section">
+
+        <p> INSTRUCTIONS:</p>
+        <p> ENTER: Start Game</p>
+        <p> <- : Move left</p>
+        <p> -> : Move right</p>
+        <p> SPACE: Pause</p>
+    </section>
+
+</div>
+</body>
+</html>
